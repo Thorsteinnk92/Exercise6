@@ -1,0 +1,3 @@
+s = ("wooo")
+
+print(s)
